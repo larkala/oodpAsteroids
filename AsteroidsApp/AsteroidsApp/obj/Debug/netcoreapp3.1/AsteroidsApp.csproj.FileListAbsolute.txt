@@ -1,0 +1,90 @@
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.exe
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.deps.json
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.runtimeconfig.json
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.runtimeconfig.dev.json
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.pdb
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.csproj.AssemblyReference.cache
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.AssemblyInfoInputs.cache
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.AssemblyInfo.cs
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.csproj.CoreCompileInputs.cache
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.csproj.CopyComplete
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.dll
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.pdb
+C:\Users\laraul\Desktop\misc\unimportant\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.genruntimeconfig.cache
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\Background.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\BigAsteroid.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\Explosion.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\File.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\font1.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\Laser.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\Life.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\MediumAsteroid.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\Player.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\PlayerAccelerate.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\resources.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\Score.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\ScoreFont.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\SmallAsteroid.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\spriteFontBig.xnb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.exe
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.deps.json
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.runtimeconfig.json
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.runtimeconfig.dev.json
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\AsteroidsApp.pdb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.AssemblyInfoInputs.cache
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.AssemblyInfo.cs
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.csproj.CoreCompileInputs.cache
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.csproj.CopyComplete
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.dll
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.pdb
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.genruntimeconfig.cache
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\obj\Debug\netcoreapp3.1\AsteroidsApp.csproj.AssemblyReference.cache
+C:\Users\hashk\Desktop\    \java\workspaces\Intellij OODP\cloned arcade\asteroids\AsteroidsApp\AsteroidsApp\bin\Debug\netcoreapp3.1\Content\UFO.xnb
